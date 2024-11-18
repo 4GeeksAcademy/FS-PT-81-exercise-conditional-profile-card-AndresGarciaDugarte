@@ -52,7 +52,7 @@ function render(variables = {}) {
               variables.github ? variables.github : "4geeksacademy"
             }><i class="fab fa-github"></i></a></li>
             <li><a href="https://linkedin.com/4GeeksAcademy" ${
-              variables.twitter ? variables.twitter : "4geeksacademy"
+              variables.linkedin ? variables.linkedin : "4geeksacademy"
             }><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/4GeeksAcademy" ${
               variables.instagram ? variables.instagram : "4geeksacademy"
